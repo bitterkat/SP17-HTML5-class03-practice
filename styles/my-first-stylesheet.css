@@ -1,0 +1,33 @@
+html {
+  font-size: 16px
+}
+
+.amendment-title {
+  color: #267272;
+}
+
+.amendment-title:hover {
+  color: #267272;
+}
+
+h2::first-letter {
+  font-size: 10rem;
+}
+
+.amendment-body {
+  color: green;
+  width: 50%;
+}
+
+[class] {
+  font-size: 1em;
+}
+
+#bill-of-rights {
+  color: green;
+  font-family: fantasy;
+}
+
+.highlight {
+  background-color: salmon;
+}
